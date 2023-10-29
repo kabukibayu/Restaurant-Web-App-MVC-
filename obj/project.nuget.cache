@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7v3AnHl1l2wIXi254lFC+L3rb+uiWZ8mi7OEAEvFFvnbL9pWiSZlahG9/sPeUs96EqtCRuQEMOz2J72N+AvH/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\N I T R O\\source\\repos\\Restaurant Web App (MVC)\\Restaurant Web App (MVC)\\Restaurant Web App (MVC).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\N I T R O\\.nuget\\packages\\microsoft.typescript.compiler\\3.1.5\\microsoft.typescript.compiler.3.1.5.nupkg.sha512",
+    "C:\\Users\\N I T R O\\.nuget\\packages\\microsoft.typescript.msbuild\\3.7.4\\microsoft.typescript.msbuild.3.7.4.nupkg.sha512",
+    "C:\\Users\\N I T R O\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,39 @@
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\bin\Debug\netcoreapp3.1\Restaurant Web App (MVC).exe
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\bin\Debug\netcoreapp3.1\Restaurant Web App (MVC).deps.json
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\bin\Debug\netcoreapp3.1\Restaurant Web App (MVC).runtimeconfig.json
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\bin\Debug\netcoreapp3.1\Restaurant Web App (MVC).runtimeconfig.dev.json
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\bin\Debug\netcoreapp3.1\Restaurant Web App (MVC).dll
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\bin\Debug\netcoreapp3.1\Restaurant Web App (MVC).pdb
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\bin\Debug\netcoreapp3.1\Restaurant Web App (MVC).Views.dll
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\bin\Debug\netcoreapp3.1\Restaurant Web App (MVC).Views.pdb
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\Restaurant Web App (MVC).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\Restaurant Web App (MVC).AssemblyInfoInputs.cache
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\Restaurant Web App (MVC).AssemblyInfo.cs
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\Restaurant Web App (MVC).csproj.CoreCompileInputs.cache
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\Restaurant Web App (MVC).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\Restaurant Web App (MVC).RazorAssemblyInfo.cache
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\Restaurant Web App (MVC).RazorAssemblyInfo.cs
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\staticwebassets\Restaurant Web App (MVC).StaticWebAssets.Manifest.cache
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\staticwebassets\Restaurant Web App (MVC).StaticWebAssets.xml
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\scopedcss\bundle\Restaurant Web App (MVC).styles.css
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\Restaurant Web App (MVC).TagHelpers.input.cache
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\Restaurant Web App (MVC).TagHelpers.output.cache
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\Restaurant Web App (MVC).RazorCoreGenerate.cache
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\Restaurant Web App (MVC).RazorTargetAssemblyInfo.cache
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\Restaurant Web App (MVC).RazorTargetAssemblyInfo.cs
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\Restaurant Web App (MVC).Views.pdb
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\Restaurant Web App (MVC).dll
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\Restaurant Web App (MVC).pdb
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\Restaurant Web App (MVC).genruntimeconfig.cache
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\Restaurant Web App (MVC).csproj.CopyComplete
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\bin\Debug\netcoreapp3.1\tsconfig.json
+C:\Users\N I T R O\source\repos\Restaurant Web App (MVC)\Restaurant Web App (MVC)\obj\Debug\netcoreapp3.1\Restaurant Web App (MVC).csproj.AssemblyReference.cache
